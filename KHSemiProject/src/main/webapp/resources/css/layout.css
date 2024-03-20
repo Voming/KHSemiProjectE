@@ -1,0 +1,9 @@
+.wrap-header .tn {
+    /* 중앙 배치 */
+    width: 970px;
+    margin: 0 auto;
+}
+
+.wrap-header .bn{
+    width: 100%;
+}

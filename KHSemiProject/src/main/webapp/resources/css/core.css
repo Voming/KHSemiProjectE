@@ -1,0 +1,59 @@
+.gothic-a1-light {
+  font-family: "Gothic A1", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.gothic-a1-regular {
+  font-family: "Gothic A1", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gothic-a1-bold {
+  font-family: "Gothic A1", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.gothic-a1-black {
+  font-family: "Gothic A1", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+h1{
+  font-family:"Gothic A1", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+h2{
+  font-family:"Gothic A1", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+h3{
+  font-family:"Gothic A1", sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+h4{
+  font-family:"Gothic A1", sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+h5{
+  font-family:"Gothic A1", sans-serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: bold;
+}
+
