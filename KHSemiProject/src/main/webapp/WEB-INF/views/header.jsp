@@ -5,8 +5,8 @@
 		<!-- 최상단 네비(로고 및 회원가입, 로그인) -->
 		<div class="nav1-wrap">
 			<div class="logo-side">
-				<a href="#"> <img
-					src="https://dummyimage.com/150x60/919191/ffffff" alt>
+				<a href="#"> <img class="logo img" src="/Images/logo.png"
+					alt="로고">
 				</a>
 			</div>
 			<div class="log">

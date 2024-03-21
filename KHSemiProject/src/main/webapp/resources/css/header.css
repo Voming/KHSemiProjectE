@@ -3,6 +3,7 @@ header nav > ul{
     overflow: hidden;
 }
 
+
 header .tn {
     /* 자식들의 기준점 */
     position: relative;
@@ -36,7 +37,7 @@ header .log li {
 header .log a {
     /* 로그인 폰트 세팅 */
     font-size: 13px;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 header .bn .nav2-wrap{
@@ -48,7 +49,7 @@ header .bn .nav2-wrap{
 
 header .nav2-wrap .nav-body {
     /* 네비바 위치 */
-    width: 970px;
+    width: 1000px;
     box-sizing: border-box;
     margin: 0 auto;
     overflow: hidden;
@@ -77,18 +78,23 @@ header .nav .hv-con {
     overflow: hidden;
 }
 
-
 header .nav li:hover {
+    
     background-color: #fff0b3;
     transition-duration: 0.5s;
 }
 
 header .nav li .hv-con li:hover
 , header .nav li a:hover {
-    font-weight: bold;
+    text-align: center;
+    font-weight: bolder;
 }
 
 header .nav li:hover .hv-con{
     height: 150px;
     transition-duration: 1s;
+}
+
+header .hv{
+z-index: 9999;
 }

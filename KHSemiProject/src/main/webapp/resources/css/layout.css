@@ -1,9 +1,39 @@
+/* 헤더 설정 */
+.wrap-header{
+    z-index: 1;
+}
+
 .wrap-header .tn {
     /* 중앙 배치 */
-    width: 970px;
+    width: 1000px;
     margin: 0 auto;
 }
 
 .wrap-header .bn{
     width: 100%;
+}
+
+.logo-side{
+    overflow: hidden;
+    margin: 0 auto;
+    height: 60px;
+}
+
+.logo .img{
+    object-fit: cover;
+}
+
+
+/* 쇼핑 이미지 배너 */
+.wrap-banner,
+.carousel-item,
+.d-block.w-100 {
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.d-block.w-100{
+    object-fit: cover;
 }
