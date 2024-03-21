@@ -18,15 +18,15 @@
 				alt="배너_이미지_01">
 		</div>
 		<div class="carousel-item">
-			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_02.jpg" 
+			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_02.jpg" class="d-block w-100"
 				alt="배너_이미지_02">
 		</div>
 		<div class="carousel-item">
-			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_03.jpg" 
+			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_03.jpg" class="d-block w-100"
 				alt="배너_이미지_03">
 		</div>
 		<div class="carousel-item">
-			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_04.jpg" 
+			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_04.jpg" class="d-block w-100"
 				alt="배너_이미지_04">
 		</div>
 	</div>
