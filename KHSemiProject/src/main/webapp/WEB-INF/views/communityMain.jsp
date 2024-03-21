@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
+<title>반려동물 커뮤니티</title>
 <!-- [1] 해상도 - 최적해상도1050px 결정 (최대/최소 지원범위-테스트영역) -->
 <!-- [2] content 영역 970px 100%, 배치(중앙,왼쪽) -->
 <!-- [3] reset.css 검토 -  폴더 경로 확정 -->
@@ -31,6 +31,7 @@
 	src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
 	integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
 	crossorigin="anonymous"></script>
+	
 
 <!-- 레이아웃 설정 -->
 <link href="${pageContext.request.contextPath}/resources/css/core.css"
@@ -53,12 +54,8 @@
 			<div class="wrap-banner">
 				<%@include file="/WEB-INF/views/eventbanner.jsp"%>
 			</div>
-
-			<!-- 부트스트랩  -->
-			<script
-				src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-				integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-				crossorigin="anonymous"></script>
+				
+			
 		</section>
 	</div>
 </body>

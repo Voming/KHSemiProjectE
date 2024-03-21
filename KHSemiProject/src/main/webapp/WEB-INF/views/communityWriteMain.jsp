@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
+<title>글쓰기</title>
 <!-- [1] 해상도 - 최적해상도1050px 결정 (최대/최소 지원범위-테스트영역) -->
 <!-- [2] content 영역 970px 100%, 배치(중앙,왼쪽) -->
 <!-- [3] reset.css 검토 -  폴더 경로 확정 -->
@@ -61,7 +61,7 @@
 							checked> <label for="sAnimal">소동물</label>
 					</div>
 					<div>
-						<input type="radio" name="question" id="other" value="other"
+						<input type="radio" name="question" id="others" value="others"
 							checked> <label for="other">기타</label>
 					</div>
 				</div>
