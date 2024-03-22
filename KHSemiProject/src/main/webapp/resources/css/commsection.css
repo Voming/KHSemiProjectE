@@ -1,0 +1,153 @@
+body {
+    font-size: 13px;
+}
+
+.wrap-main {
+    /* 중앙 배치 */
+    width: 1000px;
+    margin: 0 auto;
+
+    /* float - 부모 height를 위해  */
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.wrap-main > section{
+    /* float 왼쪽 배치 */
+    width: 800px; float: left;
+    margin-right: 30px;
+}
+.wrap-main > aside{
+    /* float 왼쪽 배치 */
+    width: 170px; float: right;
+    box-sizing: border-box;
+}
+
+section hr {
+    clear: both;
+    margin: 30px 0;
+}
+
+section nav>ul {
+    /* float - 부모 */
+    overflow: hidden;
+}
+
+.midline {
+    border: 0px;
+    height: 3px;
+    background-color: #ffc400;
+}
+
+section .communitySection {
+    margin: 10px;
+}
+
+section .searchArticle {
+    /* 부모관계 설정 */
+    position: relative;
+
+    /* 검색상자 서식 */
+    border: 2px solid #fcd11e;
+    border-radius: 24px;
+    height: 48px;
+    width: 100%;
+    padding: 0 45px;
+
+    /* 검색아이콘 */
+    background-image: url("https://bemypet.kr/_next/static/media/ICON-24px-Search.318147fc.svg");
+    background-repeat: no-repeat;
+    background-size: 24px;
+    background-position: 12px 50%;
+    margin-bottom: 10px;
+}
+
+section .searchInfo {
+    /* 입력상자 속성 지정 */
+    background-color: #f6f6f9;
+    border-radius: 10px;
+    padding: 10px;
+    color: #868688;
+
+    /* 내부요소 정렬 */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    grid-gap: 10px;
+    gap: 10px;
+    box-sizing: inherit;
+}
+
+section .writeHr {
+    padding-right: 16px;
+    box-sizing: inherit;
+}
+
+
+.community_searchInfo {
+    /* 자식 설정 */
+    position: absolute;
+
+    /* input 설정 */
+    border: 0px;
+    outline: none;
+    float: left;
+    width: 90%;
+    height: 45px;
+    font-size: 17px;
+    background-color: transparent;
+    display: flex;
+}
+
+section .downloadIcon > a {
+    text-decoration-line: none;
+}
+
+section .writeSort {
+    display: flex;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+section .writeSort>div {
+    float: left;
+    margin-right: 20px;
+}
+
+section article {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+section .writeComm {
+    margin-bottom: 10px;
+}
+
+section .writeTitle {
+    float: left;
+    margin-right: 20px;
+}
+
+section .tagAnimal .writeTitle {
+    justify-content: flex-start;
+}
+
+section .writerInfo {
+    padding: 10px;
+}
+
+section .writerInfo > div {
+    float: left;
+    margin: 10px;
+}
+
+
+aside ul > li {
+    /* float 해제  */
+    clear: both;
+    /* float 부모  */
+    overflow: hidden;
+
+    padding: 10px;
+}
