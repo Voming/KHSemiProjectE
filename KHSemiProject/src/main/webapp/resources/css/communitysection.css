@@ -14,7 +14,7 @@ body {
 
 .wrap-main > section{
     /* float 왼쪽 배치 */
-    width: 800px; float: left;
+    width: 1000px; float: left;
     margin-right: 30px;
 }
 .wrap-main > aside{
