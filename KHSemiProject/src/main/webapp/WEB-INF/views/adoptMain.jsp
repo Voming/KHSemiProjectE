@@ -706,7 +706,8 @@
         <script>
             var filtersituation = document.getElementById('filter-situation');
             var statusbottom = document.getElementById('status-bottom');
-
+            
+            statusbottom.style.display = 'none';
             filtersituation.addEventListener("click", function(){
                 if(statusbottom.style.display === 'none'){
                     statusbottom.style.display = 'block';
@@ -719,12 +720,55 @@
             var filterage = document.getElementById('filter-age');
             var agebottom = document.getElementById('age-bottom');
 
+            agebottom.style.display = 'none';
             filterage.addEventListener("click", function(){
                 if(agebottom.style.display === 'none'){
                     agebottom.style.display = 'block';
                 }else{
                     agebottom.style.display = 'none';
                 }
+            });
+        </script>
+        <script>
+            var filtergender = document.getElementById('filter-gender');
+            var genderbottom = document.getElementById('gender-bottom');
+
+            genderbottom.style.display = 'none';
+            filtergender.addEventListener("click", function(){
+                if(genderbottom.style.display === 'none'){
+                    genderbottom.style.display = 'block';
+                }else{
+                    genderbottom.style.display = 'none';
+                }
+            });
+        </script>
+        <script>
+            var filterneutering = document.getElementById('filter-neutering');
+            var neuteringbottom = document.getElementById('neutering-bottom');
+
+            neuteringbottom.style.display = 'none';
+            filterneutering.addEventListener("click", function(){
+                if(neuteringbottom.style.display === 'none'){
+                    neuteringbottom.style.display = 'block';
+                }else{
+                    neuteringbottom.style.display = 'none';
+                }
+            });
+        </script>
+        <script>
+            var numclick = null;
+
+            var numBgChange = document.querySelectorAll('.num');
+            numBgChange.forEach(function(element){
+                
+                element.addEventListener("click", function(event){
+                    if(numclick !== null){
+                        numclick.style.backgroundColor = "white";
+                    }
+                    element.style.backgroundColor = "rgb(185, 169, 115)";
+
+                    numclick = element;
+            });
             });
         </script>
 	<!-- 부트스트랩  -->
