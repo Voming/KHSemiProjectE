@@ -67,6 +67,7 @@ header{
 .filter-list{
     position: relative;
     display: flex;
+    margin: 30px;
     
 }
 .filter-wrap{
@@ -77,7 +78,7 @@ header{
     padding: 0.5rem 0.62rem;
 }
 #s-wrap-list{
-    display: flex;
+    display: none;
     gap: 9px;
     position: absolute;
     left: calc(100% - 830px);
@@ -154,63 +155,88 @@ section{
 #age-bottom{
     position: absolute;
     top: 2.5rem;
-    right: 220px;
+    right: 190px;
     border: 1px solid #ccc;
     padding: 15px;
     border-radius: 10px;
+    background-color: white;
 }
 .age-bottom-entire{
     padding: 10px;
     padding-top: 0;
     border-bottom: 1px solid #ccc;
+    cursor: pointer;
 }
 .age-bottom-protect{
     padding: 10px;
     border-bottom: 1px solid #ccc;
+    cursor: pointer;
 }
 .age-bottom-Announcement{
     padding: 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+}
+.age-bottom-last{
+    padding: 10px;
     padding-bottom: 0;
+    cursor: pointer;
 }
 #gender-bottom{
     position: absolute;
     top: 2.5rem;
+    left: 198px;
     border: 1px solid #ccc;
     padding: 15px;
     border-radius: 10px;
+    background-color: white;
 }
 .gender-bottom-entire{
     padding: 10px;
     padding-top: 0;
     border-bottom: 1px solid #ccc;
+    cursor: pointer;
 }
 .gender-bottom-protect{
     padding: 10px;
     border-bottom: 1px solid #ccc;
+    cursor: pointer;
 }
 .gender-bottom-Announcement{
     padding: 10px;
     padding-bottom: 0;
+    cursor: pointer;
 }
 #neutering-bottom{
     position: absolute;
     top: 2.5rem;
+    left: 290px;
     border: 1px solid #ccc;
     padding: 15px;
     border-radius: 10px;
+    background-color: white;
 }
 .neutering-bottom-entire{
     padding: 10px;
     padding-top: 0;
     border-bottom: 1px solid #ccc;
+    cursor: pointer;
 }
 .neutering-bottom-protect{
     padding: 10px;
     border-bottom: 1px solid #ccc;
+    cursor: pointer;
 }
 .neutering-bottom-Announcement{
     padding: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+}
+.neutering-bottom-last{
+    padding: 10px;
     padding-bottom: 0;
+    cursor: pointer;
 }
 .l-text{
     line-height: 24px;
@@ -311,18 +337,22 @@ div .f-icon{
     border: 1px solid #ccc;
     padding: 15px;
     border-radius: 10px;
+    background-color: white;
 }
 .status-bottom-entire{
 border-bottom: 1px solid #ccc;
 padding: 10px;
+cursor: pointer;
 }
 .status-bottom-protect{
     border-bottom: 1px solid #ccc;
     padding: 10px;
+    cursor: pointer;
     
 }
 .status-bottom-Announcement{
     padding: 10px;
+    cursor: pointer;
 
 }
 div .num-icon{
