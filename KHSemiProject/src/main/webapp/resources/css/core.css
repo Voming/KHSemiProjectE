@@ -22,42 +22,80 @@
   font-style: normal;
 }
 
-h1{
-  font-family:"Gothic A1", sans-serif;
+h1 {
+  font-family: "Gothic A1", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: bold;
 }
 
-h2{
-  font-family:"Gothic A1", sans-serif;
+h2 {
+  font-family: "Gothic A1", sans-serif;
   font-size: 17px;
   font-style: normal;
   font-weight: bold;
 }
 
-h3{
-  font-family:"Gothic A1", sans-serif;
+h3 {
+  font-family: "Gothic A1", sans-serif;
   font-size: 15px;
   font-style: normal;
   font-weight: bold;
 }
 
-h4{
-  font-family:"Gothic A1", sans-serif;
+h4 {
+  font-family: "Gothic A1", sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: lighter;
 }
 
-h5{
-  font-family:"Gothic A1", sans-serif;
+h5 {
+  font-family: "Gothic A1", sans-serif;
   font-size: 11px;
   font-style: normal;
   font-weight: bold;
 }
 
-ul, ol {
+ul,
+ol ,li{
   padding: 0;
   margin: 0;
+  list-style-type: none;
+}
+
+a, p{
+  font-family:"Gothic A1", sans-serif;
+}
+
+a {
+  /* a 속성 리셋 */
+  color: black;
+  text-decoration: none;
+}
+
+:root {
+  --color_green_1: #BCD3C1;
+  --color_green_2: #7FA694;
+  --color_green_3: #3A7C70;
+
+  --color_orange_1: #FAD7AF;
+  --color_orange_2: #FCC23D;
+  --color_orange_3: #E88E16;
+
+  --color_pink: #F4A77B;
+
+  --color_yellow_1: #FBF4E2;
+  --color_yellow_2: #FCDE32;
+
+  --font1: 20px;
+  --font2: 17px;
+  --font3: 15px;
+  --font4: 13px;
+  --font5: 11px;
+  /*  사용
+  #a {
+  color : var(--color1);
+  font-size: var(--font1);
+ */
 }

@@ -1,0 +1,107 @@
+.wrap-detail {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.wrap-detail .top-detail {
+    width: 1000px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.wrap-detail .top-detail .d-img {
+    width: 550px;
+    height: 550px;
+    overflow: hidden;
+    margin-right: 30px;
+}
+
+.wrap-detail .d-txt .tag {
+    color: white;
+    font-weight: bold;
+    font-size: var(--font5);
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.wrap-detail .tag p {
+    margin-top: 10px;
+    display: inline-block;
+    padding: 3px;
+    margin: 0 auto;
+}
+
+.wrap-detail .nav-link {
+    display: inline-block;
+}
+
+.wrap-detail .explain {
+    margin: 20px 0;
+}
+
+.wrap-detail .explain p {
+    font-size: var(--font5);
+    margin: 0;
+}
+
+.wrap-detail .nav-pills .nav-link.active,
+.wrap-detail .nav-pills .show>.nav-link {
+    background-color: lightgray;
+    color: black;
+}
+
+.wrap-detail .nav-item .nav-link {
+    border: 1px solid lightgrey;
+    font-size: var(--font4);
+    padding: 2px 30px;
+    color: black;
+}
+
+.wrap-detail .botton-detail {
+    text-align: center;
+}
+
+.wrap-detail .botton-detail img {
+    margin-top: 20px;
+    width: 700px;
+}
+
+.wrap-detail .d-txt {
+    position: relative;
+}
+
+.wrap-detail .tag-price p {
+    margin-bottom: 0;
+}
+
+.wrap-detail .tag-price .prs {
+    display: inline-block;
+
+}
+
+.wrap-detail .tag-price .percent {
+    position: absolute;
+    font-size: var(--font3);
+    font-weight: bold;
+    color: red;
+    top: 230px;
+    right: 0;
+}
+
+.wrap-detail .tag-price .prs {
+    display: inline-block;
+
+}
+
+.wrap-detail .option label {
+    margin-right: 45px;
+}
+
+.wrap-detail .btn-buy button{
+    width: 190px;
+    height: 50px;
+    background-color: lightgrey;
+    border: 0;
+}

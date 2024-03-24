@@ -15,19 +15,19 @@
 	<div class="carousel-inner">
 		<div class="carousel-item active">
 			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_01.jpg" class="d-block w-100"
-				alt="배너_이미지_01">
+				alt="쇼핑_이미지_01">
 		</div>
 		<div class="carousel-item">
 			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_02.jpg" class="d-block w-100"
-				alt="배너_이미지_02">
+				alt="쇼핑_이미지_02">
 		</div>
 		<div class="carousel-item">
 			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_03.jpg" class="d-block w-100"
-				alt="배너_이미지_03">
+				alt="쇼핑_이미지_03">
 		</div>
 		<div class="carousel-item">
 			<img src="${pageContext.request.contextPath}/resources/images/shopping_dog_04.jpg" class="d-block w-100"
-				alt="배너_이미지_04">
+				alt="쇼핑_이미지_04">
 		</div>
 	</div>
 	<button class="carousel-control-prev" type="button"

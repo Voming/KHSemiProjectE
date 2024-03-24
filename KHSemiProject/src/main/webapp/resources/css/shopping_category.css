@@ -1,0 +1,60 @@
+.prd-body {
+    position: relative;
+    width: 1000px;
+    margin: 0px auto;
+    top: 0px;
+}
+
+.prd-body .prd-tab-nav {
+    font-size: 0;
+    width: 1000px;
+    text-align: center;
+}
+
+.prd-tab-nav li {
+    display: inline-block;
+    height: 25px;
+    text-align: center;
+  
+}
+
+/* 가상 요소의 생성 위치는 ::before 가상요소 -> 요소의 콘텐츠 -> ::after 가상요소 순서 */
+.prd-tab-nav li a:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0px;
+    width: 100%;
+    height: 3px;
+}
+
+.prd-tab-nav li a.active:before {
+    background: var(--color_yellow_2);
+}
+
+.prd-tab-nav li a.active {
+    border-bottom: 1px solid #fff;
+}
+
+.prd-tab-nav li a {
+    position: relative;
+    display: block;
+    background: #f8f8f8;
+    color: #000;
+    padding: 0 30px;
+    line-height: 46px;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+.prd-tab-nav li a:hover,
+.prd-tab-nav li a.active {
+    background: #fff;
+    color: black;
+    font-weight: bold;
+}
+
+.prd-tab-content {
+    padding: 20px;
+    height: 244px;
+}

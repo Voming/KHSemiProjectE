@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
 <meta charset="UTF-8">
@@ -35,38 +35,20 @@
 <link href="${pageContext.request.contextPath}/resources/css/header.css"
 	rel="stylesheet">
 
-<!-- 쇼핑 메인 -->
+<!-- 쇼핑 디테일 -->
 <link
-	href="${pageContext.request.contextPath}/resources/css/shopping_category.css"
+	href="${pageContext.request.contextPath}/resources/css/shopping_detail.css"
 	rel="stylesheet">
-<link
-	href="${pageContext.request.contextPath}/resources/css/shopping_product_list.css"
-	rel="stylesheet">
-
-<!-- jQuery 선언 -->
-<script src="https://code.jquery.com/jquery-3.7.1.js"
-	integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
-	crossorigin="anonymous"></script>
 </head>
-
 <body>
 	<div class="wrap">
 		<div class="wrap-header">
 			<%@include file="/WEB-INF/views/header.jsp"%>
 		</div>
 	</div>
-	<div class="wrap-banner">
-		<%@include file="/WEB-INF/views/banner.jsp"%>
-	</div>
-	<div class="prd-body">
-		<%@include file="/WEB-INF/views/prd_body.jsp"%>
+	<div class="wrap-detail">
+		<%@include file="/WEB-INF/views/detail_body.jsp"%>
 	</div>
 
-	<!-- 부트스트랩  -->
-	<script
-		src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-		integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-		crossorigin="anonymous"></script>
 </body>
-
 </html>
