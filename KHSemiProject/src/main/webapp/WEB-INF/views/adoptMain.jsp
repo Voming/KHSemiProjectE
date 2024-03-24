@@ -125,13 +125,16 @@
                             </svg>
                         </div>
                         <div id="age-bottom">
-                            <div class="age-bottom-entire"> 전체
+                            <div class="age-bottom-entire"> 1살만
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
-                            <div class="age-bottom-protect"> 보호
+                            <div class="age-bottom-protect"> 1살 ~ 5살
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
-                            <div class="age-bottom-Announcement"> 공고
+                            <div class="age-bottom-Announcement"> 6살 ~ 9살
+                                <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
+                            </div>
+                            <div class="age-bottom-last"> 10살 이상
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
                         </div>
@@ -156,10 +159,10 @@
                             <div class="gender-bottom-entire"> 전체
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
-                            <div class="gender-bottom-protect"> 보호
+                            <div class="gender-bottom-protect"> 남아
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
-                            <div class="gender-bottom-Announcement"> 공고
+                            <div class="gender-bottom-Announcement"> 여아
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
                         </div>
@@ -184,10 +187,13 @@
                             <div class="neutering-bottom-entire"> 전체
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
-                            <div class="neutering-bottom-protect"> 보호
+                            <div class="neutering-bottom-protect"> 완료
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
-                            <div class="neutering-bottom-Announcement"> 공고
+                            <div class="neutering-bottom-Announcement"> 미완료
+                                <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
+                            </div>
+                            <div class="neutering-bottom-last"> 알수없음
                                 <svg width="9" height="12" viewBox="0 0 9 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="checked"><path d="M1.22926 6.04885L3.66465 10.3768C3.8261 10.6638 4.27471 10.5931 4.35176 10.273C4.959 7.7503 6.45379 3.17003 7.18237 2.26227" stroke="#6D2CB6" stroke-width="1.5" stroke-linecap="round"></path></svg>
                             </div>
                         </div>
@@ -226,13 +232,13 @@
                 <div class="card">
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                                <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -261,13 +267,13 @@
                     </div>
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                                <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -296,13 +302,13 @@
                     </div>
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                                <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -331,13 +337,13 @@
                     </div>
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                                <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -366,13 +372,13 @@
                     </div>
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                               <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -401,13 +407,13 @@
                     </div>
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                                <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -436,13 +442,13 @@
                     </div>
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                                <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -471,13 +477,13 @@
                     </div>
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                                <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -506,118 +512,13 @@
                     </div>
                     <div class="protect-card">
                         <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
+                        <a href="#"></a><img class="picture" src="https://www.animal.go.kr/files/shelter/2024/03/202403211003279[1].jpg" alt="">
                         <div class="situation">
                             보호중
                         </div>
                         <ol>
                             <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
-                                <br>
-                                <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg" class="genderIcon">
-                                    <path
-                                        d="M78.6461 79.344C81.3882 92.5295 72.0661 102.319 51.1381 105.715C34.3279 108.443 6.14162 93.666 7.9606 74.3423C7.9606 56.1552 34.9975 41.833 51.1381 45.2432C66.3304 45.2432 78.6461 65.1562 78.6461 79.344Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M28.6447 31.8461C28.6447 41.6302 22.5377 49.5617 15.0043 49.5617C7.47101 49.5617 0 41.6302 0 31.8461C0 16.9276 7.72951 12.9635 15.0043 13.1971C22.5377 13.1971 28.6447 22.062 28.6447 31.8461Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M32.487 17.5431C33.852 7.85474 41.0058 0.85282 48.4655 1.90384C55.9251 2.95487 62.2165 11.8511 60.8515 21.5395C58.7701 36.3121 50.5631 39.159 43.392 37.9127C35.9324 36.8617 31.1219 27.2315 32.487 17.5431Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M66.6618 25.9234C71.3466 17.3338 80.5057 13.2947 87.1194 16.9018C93.733 20.5088 96.4942 31.0492 91.8095 39.6389C84.6663 52.736 75.9824 52.5152 69.7075 48.8268C63.0939 45.2197 61.9771 34.513 66.6618 25.9234Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M90.0477 52.4061C97.4669 47.3574 106.522 47.7324 110.272 53.2437C114.022 58.755 111.727 68.3134 104.308 73.3621C92.9956 81.0603 86.1415 77.451 82.697 72.0083C78.9466 66.497 82.6285 57.4548 90.0477 52.4061Z"
-                                        fill="#62B4FD"></path>
-                                </svg>
-                                여아 · 중성화 알 수 없음
-                            </li>
-                        </ol>
-                        <div class="d-text">
-                            지역 : 경상북도 구미시
-                        </div>
-                    </div>
-                    <div class="protect-card">
-                        <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
-                        <div class="situation">
-                            보호중
-                        </div>
-                        <ol>
-                            <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
-                                <br>
-                                <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg" class="genderIcon">
-                                    <path
-                                        d="M78.6461 79.344C81.3882 92.5295 72.0661 102.319 51.1381 105.715C34.3279 108.443 6.14162 93.666 7.9606 74.3423C7.9606 56.1552 34.9975 41.833 51.1381 45.2432C66.3304 45.2432 78.6461 65.1562 78.6461 79.344Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M28.6447 31.8461C28.6447 41.6302 22.5377 49.5617 15.0043 49.5617C7.47101 49.5617 0 41.6302 0 31.8461C0 16.9276 7.72951 12.9635 15.0043 13.1971C22.5377 13.1971 28.6447 22.062 28.6447 31.8461Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M32.487 17.5431C33.852 7.85474 41.0058 0.85282 48.4655 1.90384C55.9251 2.95487 62.2165 11.8511 60.8515 21.5395C58.7701 36.3121 50.5631 39.159 43.392 37.9127C35.9324 36.8617 31.1219 27.2315 32.487 17.5431Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M66.6618 25.9234C71.3466 17.3338 80.5057 13.2947 87.1194 16.9018C93.733 20.5088 96.4942 31.0492 91.8095 39.6389C84.6663 52.736 75.9824 52.5152 69.7075 48.8268C63.0939 45.2197 61.9771 34.513 66.6618 25.9234Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M90.0477 52.4061C97.4669 47.3574 106.522 47.7324 110.272 53.2437C114.022 58.755 111.727 68.3134 104.308 73.3621C92.9956 81.0603 86.1415 77.451 82.697 72.0083C78.9466 66.497 82.6285 57.4548 90.0477 52.4061Z"
-                                        fill="#62B4FD"></path>
-                                </svg>
-                                여아 · 중성화 알 수 없음
-                            </li>
-                        </ol>
-                        <div class="d-text">
-                            지역 : 경상북도 구미시
-                        </div>
-                    </div>
-                    <div class="protect-card">
-                        <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
-                        <div class="situation">
-                            보호중
-                        </div>
-                        <ol>
-                            <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
-                                <br>
-                                <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg" class="genderIcon">
-                                    <path
-                                        d="M78.6461 79.344C81.3882 92.5295 72.0661 102.319 51.1381 105.715C34.3279 108.443 6.14162 93.666 7.9606 74.3423C7.9606 56.1552 34.9975 41.833 51.1381 45.2432C66.3304 45.2432 78.6461 65.1562 78.6461 79.344Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M28.6447 31.8461C28.6447 41.6302 22.5377 49.5617 15.0043 49.5617C7.47101 49.5617 0 41.6302 0 31.8461C0 16.9276 7.72951 12.9635 15.0043 13.1971C22.5377 13.1971 28.6447 22.062 28.6447 31.8461Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M32.487 17.5431C33.852 7.85474 41.0058 0.85282 48.4655 1.90384C55.9251 2.95487 62.2165 11.8511 60.8515 21.5395C58.7701 36.3121 50.5631 39.159 43.392 37.9127C35.9324 36.8617 31.1219 27.2315 32.487 17.5431Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M66.6618 25.9234C71.3466 17.3338 80.5057 13.2947 87.1194 16.9018C93.733 20.5088 96.4942 31.0492 91.8095 39.6389C84.6663 52.736 75.9824 52.5152 69.7075 48.8268C63.0939 45.2197 61.9771 34.513 66.6618 25.9234Z"
-                                        fill="#62B4FD"></path>
-                                    <path
-                                        d="M90.0477 52.4061C97.4669 47.3574 106.522 47.7324 110.272 53.2437C114.022 58.755 111.727 68.3134 104.308 73.3621C92.9956 81.0603 86.1415 77.451 82.697 72.0083C78.9466 66.497 82.6285 57.4548 90.0477 52.4061Z"
-                                        fill="#62B4FD"></path>
-                                </svg>
-                                여아 · 중성화 알 수 없음
-                            </li>
-                        </ol>
-                        <div class="d-text">
-                            지역 : 경상북도 구미시
-                        </div>
-                    </div>
-                    <div class="protect-card">
-                        <img class="heart" src="/images/free-icon-heart-1077035.png" alt="">
-                        <a href="#"></a><img class="picture" src="https://dummyimage.com/264x198/bdb7bd/0011ff" alt="">
-                        <div class="situation">
-                            보호중
-                        </div>
-                        <ol>
-                            <li class="l-text">
-                                <a href="/HTML/adopt_Detail.html">[강아지] 푸들 | 3살</a>
+                                <a href="/KHSemiProject/AdoptDetailController">[강아지] 푸들 | 3살</a>
                                 <br>
                                 <svg width="17" height="17" viewBox="0 0 118 107" fill="none"
                                     xmlns="http://www.w3.org/2000/svg" class="genderIcon">
@@ -653,13 +554,13 @@
             <a href="#basic"><img class="num-icon" src="/images/left-arrow-line-symbol.png" alt=""></a>
         </div>
         <a href="#basic">
-            <div id="num-next" class="num" tabindex="0">1</div>
+            <div class="num">1</div>
         </a>
         <a href="#basic">
-            <div id="num-next" class="num" tabindex="0">2</div>
+            <div class="num">2</div>
         </a>
         <a href="#basic">
-            <div id="num-next" class="num" tabindex="0">3</div>
+            <div class="num">3</div>
         </a>
         <a href="#basic">
             <div class="num">...</div>
