@@ -69,7 +69,7 @@
                         <img src="https://dummyimage.com/25x19/bdb7bd/0011ff" alt="">
                         <div>강아지</div>
                     </div>
-                    <img id="heart" src="/images/free-icon-heart-1077035.png" alt="">
+                    <img id="heart" src="/images/free-icon-heart-shape-3717486.png" alt="">
                     <div class="center-content-sub-title">믹스견 ㅣ 1세 미만</div>
                 </div>
                 <div class="bubble">
