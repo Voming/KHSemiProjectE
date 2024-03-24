@@ -113,7 +113,7 @@
                             </div>
                             <div class="shelter-info-num">
                                 <div class="shelter-text">보호소 연락처</div>
-                                <img src="/images/phone.png" alt="">
+                                <img src="/images/phone-call.png" alt="">
                                 <div class="shelter-text-info"><a href="#">062-571-2808</a></div>
                             </div>
                         </div>
