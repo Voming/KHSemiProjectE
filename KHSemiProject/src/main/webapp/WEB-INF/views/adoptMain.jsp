@@ -46,9 +46,7 @@
 			<%@include file="/WEB-INF/views/header.jsp"%>
 		</div>
 	</div>
-	<div class="wrap-banner">
-		<%@include file="/WEB-INF/views/banner.jsp"%>
-	</div>
+	
 	<div class="top-tag" id="basic">
         <div>유기동물 입양</div>
     </div>

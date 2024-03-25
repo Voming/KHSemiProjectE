@@ -46,9 +46,7 @@
 			<%@include file="/WEB-INF/views/header.jsp"%>
 		</div>
 	</div>
-	<div class="wrap-banner">
-		<%@include file="/WEB-INF/views/banner.jsp"%>
-	</div>
+	
    <div class="bundle-wrap">
         <div class="bundle">
             <div class="top-protect">
