@@ -23,14 +23,14 @@
 		<div class="nav2-wrap">
 			<div class="nav-body">
 				<ul class="nav">
-					<li class="hv"><a href="#">입양</a></li>
-					<li class="hv"><a href="#">커뮤니티</a>
+					<li class="hv"><a href="${pageContext.request.contextPath}/Adopt/Main">입양</a></li>
+					<li class="hv"><a href="${pageContext.request.contextPath}/Community/Main">커뮤니티</a>
 						<ul class="hv-con">
 							<li><a href="#">라운지</a></li>
 							<li><a href="#">Q&A</a></li>
 							<li><a href="#">1:1문의</a></li>
 						</ul></li>
-					<li class="hv"><a href="#">쇼핑</a>
+					<li class="hv"><a href="${pageContext.request.contextPath}/Shopping/Main">쇼핑</a>
 						<ul class="hv-con">
 							<li><a href="#">전체상품</a></li>
 							<li><a href="#">NEW</a></li>

@@ -56,7 +56,7 @@
 					<li>
 						<div class="box">
 							<img class="img_pro" src="${pageContext.request.contextPath}/resources/images/products/shopping_02.jpg"
-								alt="제품 이미지" onClick="location.href='TODO상세페이지로 변경하기'">
+								alt="제품 이미지" onClick="location.href='${pageContext.request.contextPath}/Shopping/Detail'">
 							<div class="tag">
 								<p style="background-color: var(- -color_yellow_2);">Best</p>
 								<p style="background-color: black;">개별배송</p>
